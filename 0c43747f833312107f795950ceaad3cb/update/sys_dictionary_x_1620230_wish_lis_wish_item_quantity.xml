@@ -5,7 +5,7 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Quantity</column_label>
@@ -16,7 +16,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Wish List">0c43747f833312107f795950ceaad3cb</sys_scope>
         <sys_update_name>sys_dictionary_x_1620230_wish_lis_wish_item_quantity</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-25 11:58:31</sys_updated_on>
+        <sys_updated_on>2025-02-25 17:41:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
